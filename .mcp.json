@@ -1,0 +1,22 @@
+{
+  "~~serp_data": {
+    "description": "DataForSEO — backlink data, domain analytics, referring domains, anchor text",
+    "exampleServers": ["dataforseo-mcp"]
+  },
+  "~~crawler": {
+    "description": "Firecrawl — page context verification, link placement analysis, site scraping",
+    "exampleServers": ["firecrawl-mcp"]
+  },
+  "~~database": {
+    "description": "PostgreSQL — link management database, prospect tracking, campaign records",
+    "exampleServers": ["postgresql-mcp"]
+  },
+  "~~knowledge_base": {
+    "description": "Notion — link prospect database, outreach tracking, campaign notes",
+    "exampleServers": ["notion-mcp"]
+  },
+  "~~documents": {
+    "description": "Google Drive — link reports, prospect sheets, campaign trackers",
+    "exampleServers": ["gdrive-mcp"]
+  }
+}

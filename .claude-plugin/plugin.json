@@ -1,0 +1,11 @@
+{
+  "name": "backlink-intelligence",
+  "version": "1.0.0",
+  "description": "Backlink discovery, competitor gap analysis, link verification, and expired domain finding. Uses Common Crawl, DataForSEO, and Firecrawl to build and qualify link opportunities.",
+  "author": {
+    "name": "Artur Ferreira",
+    "url": "https://thegeolab.net"
+  },
+  "homepage": "https://github.com/arturseo-geo/backlink-intelligence-plugin",
+  "license": "MIT"
+}
